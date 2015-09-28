@@ -35,7 +35,7 @@ public class Customer {
 				ticket = flagTicket;
 				break;
 			}
-			return ticket;
 		}
+		return ticket;
 	}
 }
